@@ -1,0 +1,7 @@
+---
+applications:
+- name: dev-desc-orders
+  host: dev-desc-orders
+  memory: 128M
+  services:
+  - dev-desc-clinical-db
